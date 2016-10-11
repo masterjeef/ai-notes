@@ -16,4 +16,19 @@ Example: **A cup of coffee**
     * 106 calories
     * $4.99 cost
 
- Data can be categoried further into the following 4 categories (page 28).
+ Data can be categorized further into the following 4 categories:
+ 1. Nominal data
+ 2. Ordinal data
+ 3. Interval data
+ 4. Ration data
+
+It's easiest to determine them based off of what mathematical operations can be applied, for example :
+
+|         | Nominal | Ordinal       | Interval | Ratio |
+|---------|---------|---------------|----------|-------|
+| * or /  | No      | No            | No       | Yes   |
+| + or -  | No      | No            | Yes      | Yes   |
+| < or >  | No      | Yes           | Yes      | Yes   |
+| = or != | Yes     | Yes           | Yes      | Yes   |
+| Example | Gender  | Hot/warm/cold | Year     | Age   |
+

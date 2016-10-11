@@ -9,7 +9,7 @@
 
 #### Data Classification
 
-Attempts to classify the input data. Classification uses supervised training where the user providers data and expected results. The result of data classification is a class.
+Attempts to classify the input data. Classification uses supervised training where the user provides data and expected results. The result of data classification is a class.
 
 **Supervised training always requires known data. The goal is that the algorithm will be capable of identifying unknown data once trained**
 
